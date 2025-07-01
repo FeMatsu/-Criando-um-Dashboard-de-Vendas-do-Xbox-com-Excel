@@ -5,7 +5,6 @@
 
 O objetivo deste desafio é criar um **dashboard de vendas** com foco na **organização e visualização de dados**. A intenção é transformar dados brutos em informações visuais claras e úteis, permitindo uma **análise eficaz do desempenho de vendas** e a **tomada de decisões baseadas em dados**.
 
----
 
 ## Etapas do Projeto
 
@@ -30,7 +29,6 @@ O objetivo deste desafio é criar um **dashboard de vendas** com foco na **organ
 **Qual o total de vendas de assinaturas do Minecraft Season Pass?**  
 - Da mesma forma, o valor foi destacado em outro quadro visual, com o uso da imagem (asset) do **Minecraft**.
 
----
 
 ## Descrição Visual do Dashboard
 
@@ -41,8 +39,6 @@ O dashboard final apresenta:
 - Um gráfico horizontal detalha o total de assinaturas Xbox Game Pass com auto renovação (`Yes: R$ 747,00`) e sem (`No: R$ 2.824,00`).
 - Um menu lateral interativo com **filtros por tipo de assinatura**: Anual, Mensal e Trimestral.
 - Interface amigável com boas práticas de organização, cores e uso de ícones/imagens.
-
----
 
 ## Considerações Finais
 
